@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">John Bull app</string>
+    <string name="welcome">Velkommen til\nJohn Bull Pub</string>
+    <string name="drinks">Drikke</string>
+    <string name="find">Find os</string>
+    <string name="logo">logo</string>
+</resources>
